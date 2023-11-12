@@ -1,4 +1,4 @@
-# portfolio-website
-#Nama : Della Rachmatika Noer Intanty
-#NIM : 2204767
-#Kelas : Pendidikan Ilmu Komputer - 3A
+Repository untuk tugas Pemrograman Intenet Membuat Web Pribadi
+
+Della Rachmatika Noer Intanty (2204767) - Pendidikan Ilmu Komputer 3A
+
